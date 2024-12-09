@@ -1,11 +1,11 @@
-# Portal Mahasiswa
+# Portal Wisuda
 
 ## Gambaran Umum
-Portal Mahasiswa adalah aplikasi web yang dirancang untuk memfasilitasi manajemen mahasiswa, termasuk pembuatan akun, pelacakan status keuangan, pemesanan toga, dan validasi foto. Aplikasi ini menyediakan antarmuka yang ramah pengguna untuk mahasiswa dan administrator.
+Portal Wisuda adalah aplikasi web yang dirancang untuk memfasilitasi manajemen mahasiswa, termasuk pembuatan akun, pelacakan status keuangan, pemesanan toga, dan validasi foto. Aplikasi ini menyediakan antarmuka yang ramah pengguna untuk mahasiswa dan administrator.
 
 ## Struktur Proyek
 ```
-portal-mahasiswa
+portal-wisuda
 ├── index.html
 ├── css
 │   └── styles.css
