@@ -6,11 +6,18 @@ Portal Wisuda adalah aplikasi web yang dirancang untuk memfasilitasi manajemen m
 ## Struktur Proyek
 ```
 portal-wisuda
-├── index.html
-├── css
-│   └── styles.css
-├── js
-│   └── scripts.js
+├── assets
+│   ├── compiled
+│   │   ├── css
+│   │   ├── eot
+│   │   ├── fonts
+│   │   ├── jpg
+│   │   ├── js
+│   │   ├── png
+│   │   └── svg
+│   ├── extensions
+│   └── static
+│   │   └── scripts.js
 ├── pages
 │   ├── landing.html
 │   ├── akademik.html
@@ -19,6 +26,8 @@ portal-wisuda
 │   ├── toga.html
 │   ├── validasi-foto.html
 │   └── admin.html
+├── contoh.zip
+├── index.html
 └── README.md
 ```
 
